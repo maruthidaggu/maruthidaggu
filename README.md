@@ -121,5 +121,5 @@
 
 
 ## 🐍 My Contribution Snake
-![Snake animation](https://github.com/maruthidaggu/maruthidaggu/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/maruthidaggu/maruthidaggu/output/github-contribution-grid-snake.svg)
   
