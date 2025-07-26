@@ -1,6 +1,17 @@
 # Hi there, I'm Maruthi Daggu 👋
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Maruthi%20Daggu&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
+<!-- Green contribution squares for name -->
+<div align="center">
+  
+![](https://github.com/maruthidaggu/maruthidaggu/blob/main/github-metrics.svg)
+
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;DSA+%26+Problem+Solving+Expert;Competitive+Programming+Enthusiast;Algorithm+Optimizer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></div>
 
 ## 🚀 About Me
