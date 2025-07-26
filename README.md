@@ -1,4 +1,14 @@
+<div align="center">
+  
+# Hi there 👋
 
+![](https://github.com/maruthidaggu/maruthidaggu/blob/main/github-contribution-grid-snake.svg)
+
+### I'm Maruthi Daggu
+  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;AI/ML+%26+IoT+Enthusiast;Full+Stack+Developer;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Maruthi%20Daggu&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
