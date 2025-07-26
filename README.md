@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 - 🎓 **B.Tech Computer Science** at SR University, Warangal (GPA: 9.27/10)
 - 💡 Passionate about **Data Structures & Algorithms, Problem Solving**
 - 🌱 Currently mastering **Advanced DSA & Competitive Programming**
@@ -76,7 +74,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maruthidaggu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;DSA+%26+Problem+Solving+Expert;Competitive+Programming+Enthusiast;Algorithm+Optimizer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthidaggu&layout=compact&langs_count=8&theme=radical"/>
 </div>
