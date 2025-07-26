@@ -232,4 +232,6 @@
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
+## 🐍 My Contribution Snake
+![Snake animation](https://github.com/maruthidaggu/maruthidaggu/blob/output/snake.svg)
   
