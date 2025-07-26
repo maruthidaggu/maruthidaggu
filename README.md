@@ -6,17 +6,31 @@
 
 ## 🚀 About Me
 
+## 🚀 About Me
+
 - 🎓 **B.Tech Computer Science** at SR University, Warangal (GPA: 9.27/10)
-- 💡 Passionate about **AI/ML, IoT, and Web Development**
-- 🌱 Currently learning **Advanced Algorithms & Cloud Technologies**
-- 🔭 Working on **Environmental Tech & Automation Projects**
-- 🎯 Goal: Contributing to **sustainable technology solutions**
+- 💡 Passionate about **Data Structures & Algorithms, Problem Solving**
+- 🌱 Currently mastering **Advanced DSA & Competitive Programming**
+- 🔭 Working on **Algorithm Optimization & System Design**
+- 🎯 Goal: **Solving complex problems efficiently & clean code**
 - 📫 Reach me: **maruthidaggu@gmail.com**
 - 📍 Location: **Warangal, Telangana**
-
+- 🏆 **LeetCode:** Solving problems daily
+- 💻 **Focus:** Data Structures, Algorithms, System Design
 ## 🛠️ Tech Stack
 
 ### Languages
+### Languages & DSA Focus
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Problem Solving Platforms
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,34 +49,35 @@
 
 ## 🏆 Featured Projects
 
+### 🧠 DSA Problem Solutions
+> **Comprehensive collection of Data Structure & Algorithm solutions**
+- 500+ problems solved across multiple platforms
+- Clean, optimized code with detailed explanations
+- **Tech:** C++, Java, Python, Time & Space complexity analysis
+
 ### 🌞 Solar Water Trash Collector
-> **Environmental sustainability project combining renewable energy with automation**
-- Automated water cleaning system powered by solar energy
-- Mechanical collection mechanisms for efficient waste removal
-- **Tech:** Solar panels, Arduino, Automation systems
+> **Environmental sustainability project with algorithmic optimization**
+- Automated water cleaning system with path optimization algorithms
+- Efficient collection mechanisms using graph algorithms
+- **Tech:** Arduino, C++, Optimization algorithms
 
 ### 🛡️ Smart Fence IoT System  
-> **Intelligent perimeter security with real-time monitoring**
-- IoT sensors and connectivity for real-time alerts
-- Smart detection capabilities for security breaches
-- **Tech:** IoT sensors, Microcontrollers, Wireless communication
+> **Real-time system with efficient data processing**
+- Optimized sensor data processing using appropriate data structures
+- Fast alert systems with priority queues and heaps
+- **Tech:** IoT sensors, C++, Real-time algorithms
 
-### 👤 AI Attendance System
-> **Face recognition technology for automated attendance**
-- Machine learning algorithms for face detection and recognition
-- Automated student attendance marking system
-- **Tech:** Python, OpenCV, Machine Learning
-
-### 🎬 Movie Ticket Booking System
-> **Full-stack web application for online movie bookings**
-- Complete interface for booking movie tickets online
-- Information system for movies and theaters
-- **Tech:** HTML, CSS, JavaScript, Web Design
+### 🎬 Movie Booking System
+> **Backend system with efficient data management**
+- Database optimization using appropriate data structures
+- Fast search and booking algorithms
+- **Tech:** Data structures, Database algorithms, Web backend
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maruthidaggu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;DSA+%26+Problem+Solving+Expert;Competitive+Programming+Enthusiast;Algorithm+Optimizer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthidaggu&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
