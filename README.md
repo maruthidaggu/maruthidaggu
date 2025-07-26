@@ -2,9 +2,7 @@
 
 ![](https://github.com/maruthidaggu/maruthidaggu/blob/main/name.svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;AI/ML+%26+IoT+Enthusiast;Full+Stack+Developer;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
+
 
 <!-- Green contribution squares for name -->
 <div align="center">
