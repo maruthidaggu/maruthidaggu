@@ -1,4 +1,4 @@
-# Hi there, I'm Maruthi Daggu 👋
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Maruthi%20Daggu&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
