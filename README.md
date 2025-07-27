@@ -124,8 +124,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maruthidaggu@gmail.com)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maruthidaggu&theme=react-dark&hide_border=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruthidaggu&theme=react-dark)
 ---
 
 
