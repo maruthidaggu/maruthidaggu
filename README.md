@@ -87,6 +87,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruthidaggu&theme=radical" alt="GitHub Streak" />
 </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maruthidaggu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 🎓 Education & Certifications
 
