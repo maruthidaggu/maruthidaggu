@@ -1,5 +1,5 @@
 # Hi there, I'm Maruthi Daggu 👋
-![Profile Views](https://komarev.com/ghpvc/?username=maruthidaggu&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=maruthidaggu&color=brightgreen&style=flat- square&label=Profile+Views)
 
 ![](https://github.com/maruthidaggu/maruthidaggu/blob/main/name.svg)
 
