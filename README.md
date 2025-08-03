@@ -16,7 +16,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Computer+Science+Student;DSA+%26+Problem+Solving+Expert;Competitive+Programming+Enthusiast;Algorithm+Optimizer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></div>
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🎓 **B.Tech Computer Science** at SR University, Warangal (GPA: 9.27/10)
 - 💡 Passionate about **Data Structures & Algorithms, Problem Solving**
